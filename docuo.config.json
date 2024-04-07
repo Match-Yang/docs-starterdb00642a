@@ -1,9 +1,9 @@
 {
-  "title": "Shoop",
+  "title": "Shooop",
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My project",
+      "title": "Shooop",
       "logo": "image/logo.png",
       "items": [
         {
